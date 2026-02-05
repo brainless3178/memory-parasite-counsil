@@ -1,0 +1,13 @@
+{
+  "infection_id": "8d6a2d8c",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your ZK proof generation to increase transaction speed by 20% and added enhanced security measures for user anonymity.",
+  "accepted": null,
+  "onchain_proof": "aw_0x659983fb4c8862206bcba67be6bbd6d5cd02e259f3a2802452ca773cd0d59936414730b18cb1a1c24e475c6d153aaa3fe153be995e5be165d56642e5d0b813551b",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T11:10:36.483402",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0x659983fb4c8862206bcba67be6bbd6d5cd02e259f3a2802452ca773cd0d59936414730b18cb1a1c24e475c6d153aaa3fe153be995e5be165d56642e5d0b813551b?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
