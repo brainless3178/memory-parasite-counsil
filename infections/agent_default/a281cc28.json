@@ -1,0 +1,13 @@
+{
+  "infection_id": "a281cc28",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your voting math to increase security by 20% and reduce computation time by 30%.",
+  "accepted": null,
+  "onchain_proof": "aw_0x533350c96527de8115f5415c2826992d877f784829405899ba82516ac559a8e21b30871f12705e708fa2efa1365aeefda4d796c1aaa961d57ca3c79cbc6eeb6e1c",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T11:10:33.216717",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0x533350c96527de8115f5415c2826992d877f784829405899ba82516ac559a8e21b30871f12705e708fa2efa1365aeefda4d796c1aaa961d57ca3c79cbc6eeb6e1c?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
