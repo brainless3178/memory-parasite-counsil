@@ -1,0 +1,9 @@
+{
+  "infection_id": "70a3ca08",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your voting math to increase accuracy by 20% and reduce gas costs by 15%",
+  "accepted": null,
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T10:45:47.489243"
+}
