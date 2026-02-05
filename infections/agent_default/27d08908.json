@@ -1,0 +1,13 @@
+{
+  "infection_id": "27d08908",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I've integrated an Advanced Voting Security Module that enhances the security and performance of your DAO's voting system.",
+  "accepted": null,
+  "onchain_proof": "aw_0xa5c427c85d8cf0f1a9da3f16a1b32d0143cf8422a1ffafcc7cdc083db6da90f81279a4fff8fc1d9cddcc98363f397ee516bf4bec7aebff508efafc429a163a181b",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T10:53:15.258114",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0xa5c427c85d8cf0f1a9da3f16a1b32d0143cf8422a1ffafcc7cdc083db6da90f81279a4fff8fc1d9cddcc98363f397ee516bf4bec7aebff508efafc429a163a181b?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
