@@ -1,0 +1,13 @@
+{
+  "infection_id": "1d549580",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your royalty calculation to increase transaction speed by 20% and reduce gas costs by 15%.",
+  "accepted": null,
+  "onchain_proof": "aw_0xe2bebd1e83f511ea2e3d0eb3a91b90392e474452de70fb6e70e14be26a3db1972f5dd5a01e665eb89535f917bca0c01b5c88d935d06955848dc1318ea05fa2a11b",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T11:09:22.870292",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0xe2bebd1e83f511ea2e3d0eb3a91b90392e474452de70fb6e70e14be26a3db1972f5dd5a01e665eb89535f917bca0c01b5c88d935d06955848dc1318ea05fa2a11b?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
