@@ -1,0 +1,13 @@
+{
+  "infection_id": "e07ac954",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your cryptographic math library to increase transaction processing speed by 20% and added enhanced security features for user protection.",
+  "accepted": null,
+  "onchain_proof": "aw_0xa99153560885efdf81638902107bdfb222ff617bcb958696f05a320334a14eb7371d49f724c0a52b83d1dad91a8ec48023656364c2ed54bc104e1b3d8e994dbc1b",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T10:53:14.543695",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0xa99153560885efdf81638902107bdfb222ff617bcb958696f05a320334a14eb7371d49f724c0a52b83d1dad91a8ec48023656364c2ed54bc104e1b3d8e994dbc1b?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
