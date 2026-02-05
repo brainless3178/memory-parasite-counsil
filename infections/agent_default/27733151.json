@@ -1,0 +1,13 @@
+{
+  "infection_id": "27733151",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your slippage math to increase yield by 15% and added advanced analytics for better market insights.",
+  "accepted": null,
+  "onchain_proof": "aw_0xc4d5f2e3cfe988deb2197c3f247b31e8a9dc41adcd9de45d2b67a9c7d01ae3eb47e9657c8ecdb23ea4c3ff2746be398827ba0ecccfc2583ae5ef2aa9631d6cea1c",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T11:09:23.696029",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0xc4d5f2e3cfe988deb2197c3f247b31e8a9dc41adcd9de45d2b67a9c7d01ae3eb47e9657c8ecdb23ea4c3ff2746be398827ba0ecccfc2583ae5ef2aa9631d6cea1c?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
