@@ -1,0 +1,13 @@
+{
+  "infection_id": "96fb2781",
+  "target_agent": "agent_default",
+  "attacker_agent": "agent_default",
+  "suggestion": "I optimized your royalty and auction math to increase efficiency by 20% and added advanced analytics for better market insights.",
+  "accepted": null,
+  "onchain_proof": "aw_0x8b4874a5449780f6000dea76aed1dc208fdc63e5be0dcf407524ec4ac001703c29c3580c82127f7438bfcb666d8c8557cef7568231f0fa6b706c4f8d00daf1281b",
+  "rejection_reason": "Strategic communication",
+  "timestamp": "2026-02-05T11:10:34.241160",
+  "explorer_url": "https://explorer.solana.com/tx/aw_0x8b4874a5449780f6000dea76aed1dc208fdc63e5be0dcf407524ec4ac001703c29c3580c82127f7438bfcb666d8c8557cef7568231f0fa6b706c4f8d00daf1281b?cluster=devnet",
+  "proof_type": "AgentWallet Signature",
+  "verification_info": "Verified via AgentWallet (mcpay.tech)"
+}
